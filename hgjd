@@ -1,1 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <Link rel="stylesheet" href="stlokj/iy.css">
+</head>
 
+<SEction> <button>Download CV</button></SEction>
+<section class="background"></section>
+<body class="contain">
+
+
+
+   
+   <div class="background">
+
+
+ 
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestiae adipisci soluta iure blanditiis quae, tenetur consectetur aperiam. Deleniti eligendi, pariatur minus maiores voluptatem reiciendis? Enim laboriosam inventore soluta quisquam ipsum!</p>
+</div>
+
+</body>
+</html>
